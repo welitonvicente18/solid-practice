@@ -1,0 +1,15 @@
+{
+    "name": "dev/app",
+    "autoload": {
+        "psr-4": {
+            "DevApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Weliton Vicente",
+            "email": "welitonvicente6@gmail.com"
+        }
+    ],
+    "require": {}
+}
